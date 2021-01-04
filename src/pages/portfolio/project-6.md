@@ -2,7 +2,7 @@
 title: Project Title 6
 subtitle: Optional Project Subtitle
 date: '2018-12-18'
-thumb_image: images/fabulous-amaranth.gif
+thumb_image: images/wahoo.gif
 image: images/6.jpg
 template: project
 ---
