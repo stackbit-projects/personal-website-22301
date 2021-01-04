@@ -16,7 +16,7 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Recent Work
-    subtitle: 'Some projects from my courses,'
+    subtitle: 'Some projects from my courses, Hackathons, free time at the airport, etc.'
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
