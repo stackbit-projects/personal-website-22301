@@ -4,10 +4,12 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    title: 'Hi, I''m Dzung.'
+    content: >+
+      I'm currently a computer graphics student at the University of
+      Pennsylvania. I enjoy creating memorable experiences for others through
+      coding.
+
     actions:
       - label: Let's talk
         url: /contact
@@ -16,7 +18,7 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Recent Work
-    subtitle: An optional subtitle of the section
+    subtitle: 'Some projects from my courses, Hackathons, free time at the airport, etc.'
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
